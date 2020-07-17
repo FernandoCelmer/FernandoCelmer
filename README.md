@@ -18,4 +18,4 @@
 	<a href="http://www.fernandocelmer.com/img/icons/icon-soundcloud.png"  target="_blank">
 		<img src="http://www.fernandocelmer.com/img/icons/icon-soundcloud.png" alt="soundcloud" class="w3-hover-opacity" width="35" height="35">
 	</a>
-</center>
+</center> 
