@@ -1,6 +1,6 @@
 
 <center>
-	<a href="htpp://www.fernandocelmer"  target="_blank">
+	<a href="htpp://www.fernandocelmer/"  target="_blank">
 		<img src="http://www.fernandocelmer.com/img/icons/icon-fernando.png" alt="website" class="w3-hover-opacity" width="35" height="35">
 	</a>	
 	<a href="https://www.behance.net/fernandocelmer"  target="_blank">
