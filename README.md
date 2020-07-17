@@ -1,5 +1,6 @@
 ### Fernando Celmer
 
+<a href="https://soundcloud.com/fernandocelmer/tracks" target="_blank"><img src="img/icons/icon-soundcloud.png" alt="soundcloud" class="w3-hover-opacity" width="35" height="35"></a>
 
 <!--
 **FernandoCelmer/FernandoCelmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
