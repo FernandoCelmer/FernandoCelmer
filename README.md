@@ -1,6 +1,11 @@
 ### Fernando Celmer
 
+<style>
+  background: #000000;
+</style>
+
 <img border="0" src="https://media1.tenor.com/images/0c34c49eff318a636f76be9d103db43e/tenor.gif"></p>
+
 
 <!--
 **FernandoCelmer/FernandoCelmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
