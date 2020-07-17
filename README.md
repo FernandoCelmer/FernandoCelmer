@@ -1,4 +1,3 @@
-### Fernando Celmer
 <center>
 	<a href="https://www.behance.net/fernandocelmer"  target="_blank">
 		<img src="http://www.fernandocelmer.com/img/icons/icon-behance.png" alt="behance" class="w3-hover-opacity" width="35" height="35">
