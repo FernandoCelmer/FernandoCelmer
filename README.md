@@ -18,8 +18,6 @@
 	
 <br>
 <br>
-<br>
-<br>
 <a href="https://gist.github.com/FernandoCelmer">
 <img style="-webkit-user-select: none;margin: auto;" src="http://fernandocelmer.com/img/fernando-celmer-github-gist.png" width="180" height="33"></a>
  
