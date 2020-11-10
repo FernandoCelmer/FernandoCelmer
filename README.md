@@ -20,6 +20,3 @@
 <br>
 <a href="https://gist.github.com/FernandoCelmer">
 <img style="-webkit-user-select: none;margin: auto;" src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/fernando-celmer-github-gist.png" width="180" height="33"></a>
- 
-  [![Fernando Celmer github stats](https://github-readme-stats.vercel.app/api?username=fernandocelmer)](https://github.com/fernandocelmer/github-readme-stats)
-
