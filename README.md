@@ -16,6 +16,10 @@
 <a href="http://www.fernandocelmer.com" target="_blank">
 	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon-fernando.png" alt="website" class="w3-hover-opacity" width="35" height="35"></a>
 	
+<a href="https://www.amazon.com.br/hz/wishlist/ls/3CELRK9GZN2Q2" target="_blank">
+	<img src="https://fernandocelmer.com/img/icons/icon-amazon.png" alt="website" class="w3-hover-opacity" width="35" height="35">
+</a>
+	
 <br>
 <br>
 <a href="https://gist.github.com/FernandoCelmer">
