@@ -29,7 +29,7 @@
 </a>
 	
 <a href="https://www.amazon.com.br/hz/wishlist/ls/3CELRK9GZN2Q2" target="_blank">
-	<img src="https://fernandocelmer.com/img/icons/icon-amazon.png" alt="website" class="w3-hover-opacity" width="35" height="35" 
+	<img src="https://fernandocelmer.com/assets/img/icons/icon-amazon.png" alt="website" class="w3-hover-opacity" width="35" height="35" 
 	title="Give me a book">
 </a>
 	
