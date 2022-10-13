@@ -27,10 +27,16 @@
 	<img src="https://fernandocelmer.com/assets/img/icons/icon-amazon.png" alt="website" class="w3-hover-opacity" width="35" height="35" 
 	title="Give me a book">
 </a>
-	
+
 <br>
 <br>
-<a href="https://gist.github.com/FernandoCelmer">
-<img style="-webkit-user-select: none;margin: auto;" src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/fernando-celmer-github-gist.png" width="180" height="33"></a>
+	<a href="https://gist.github.com/FernandoCelmer">
+		<img style="-webkit-user-select: none;margin: auto;" 
+		src="https://raw.githubusercontent.com/FernandoCelmer/FernandoCelmer/master/img/fernando-celmer-pypi.png" width="10%">
+	</a>
 <br>
+	<a href="https://pypi.org/user/fernandocelmer/">
+		<img style="-webkit-user-select: none;margin: auto;" 
+		src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/fernando-celmer-github-gist.png" width="180" height="33">
+	</a>
 <br>
