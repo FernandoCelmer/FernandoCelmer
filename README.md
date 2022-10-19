@@ -1,18 +1,25 @@
+<a href="https://www.linkedin.com/in/fernando-celmer/" target="_blank">
+	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon-linkedin.png" 
+	alt="linkedin" class="w3-hover-opacity" width="35" height="35" title="Linkedin">
+</a>
+
+<a href="https://medium.com/@fernandocelmer" target="_blank">
+	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon-medium.png" 
+	alt="medium" class="w3-hover-opacity" width="35" height="35" title="Medium">
+</a>
+
+<a href="https://pypi.org/user/fernandocelmer/" target="_blank">
+	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon_pypi.png?raw=true"
+	alt="website" class="w3-hover-opacity" width="35" height="35" 
+	title="Pypi Python">
+</a>
+
 <a href="https://www.behance.net/fernandocelmer" target="_blank">
 	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon-behance.png" 
 	alt="behance" class="w3-hover-opacity" width="35" height="35" title="Behance">
 </a>
 	
-<a href="https://medium.com/@fernandocelmer" target="_blank">
-	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon-medium.png" 
-	alt="medium" class="w3-hover-opacity" width="35" height="35" title="Medium">
-</a>
-	
-<a href="https://www.linkedin.com/in/fernando-celmer/" target="_blank">
-	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon-linkedin.png" 
-	alt="linkedin" class="w3-hover-opacity" width="35" height="35" title="Linkedin">
-</a>
-	
+
 <a href="http://www.fernandocelmer.com/img/icons/icon-soundcloud.png" target="_blank">
 	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon-soundcloud.png" 
 	alt="soundcloud" class="w3-hover-opacity" width="35" height="35" title="Soundcloud">
@@ -28,15 +35,4 @@
 	title="Give me a book">
 </a>
 
-<br>
-<br>
-	<a href="https://pypi.org/user/fernandocelmer/">
-		<img style="-webkit-user-select: none;margin: auto;" 
-		src="https://raw.githubusercontent.com/FernandoCelmer/FernandoCelmer/master/img/fernando-celmer-pypi.png" width="10%">
-	</a>
-<br>
-	<a href="https://gist.github.com/FernandoCelmer">
-		<img style="-webkit-user-select: none;margin: auto;" 
-		src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/fernando-celmer-github-gist.png" width="180" height="33">
-	</a>
-<br>
+
