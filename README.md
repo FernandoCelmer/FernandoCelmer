@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://pypi.org/user/fernandocelmer/" target="_blank">
-	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon_pypi.png?raw=true"
+	<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon-pypi.png"
 	alt="website" class="w3-hover-opacity" width="35" height="35" 
 	title="Pypi Python">
 </a>
