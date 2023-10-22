@@ -1,19 +1,3 @@
-<style>
-
-main {
-    text-align: center;
-}
-
-.icon {
-    width: 35px;
-    height: 35px;
-    opacity: 1.0;
-}
-
-</style>
-
-<main>
-
 <a href="https://www.linkedin.com/in/fernando-celmer/" target="_blank" title="Linkedin">
 	<img src="icons/icon-linkedin.png" alt="linkedin" width="35px" height="35px">
 </a>
@@ -38,5 +22,3 @@ main {
 <a href="https://www.amazon.com.br/hz/wishlist/ls/3CELRK9GZN2Q2" target="_blank" title="Give me a book">
 	<img src="icons/icon-amazon.png" alt="behance" width="35px" height="35px">
 </a>
-
-</main>
