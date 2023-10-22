@@ -1,4 +1,16 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+<style>
+
+main {
+    text-align: center;
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+    opacity: 1.0;
+}
+
+</style>
 
 <main>
 
