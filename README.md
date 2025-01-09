@@ -16,9 +16,6 @@
 <a href="https://www.last.fm/user/FernandoCelmer" target="_blank" title="LastFM">
 	<img src="icons/icon-lastfm.png" alt="lastfm" width="35px" height="35px">
 </a>
-<a href="https://www.behance.net/fernandocelmer" target="_blank" title="Behance">
-	<img src="icons/icon-behance.png" alt="behance" width="35px" height="35px">
-</a>
 <a href="https://www.amazon.com.br/hz/wishlist/ls/3CELRK9GZN2Q2" target="_blank" title="Give me a book">
 	<img src="icons/icon-amazon.png" alt="behance" width="35px" height="35px">
 </a>
